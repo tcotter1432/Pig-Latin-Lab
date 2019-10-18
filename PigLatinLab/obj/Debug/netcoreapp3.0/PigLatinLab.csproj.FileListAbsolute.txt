@@ -1,0 +1,11 @@
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.exe
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.deps.json
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.runtimeconfig.json
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.dll
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\bin\Debug\netcoreapp3.0\PigLatinLab.pdb
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\obj\Debug\netcoreapp3.0\PigLatinLab.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\obj\Debug\netcoreapp3.0\PigLatinLab.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\obj\Debug\netcoreapp3.0\PigLatinLab.AssemblyInfo.cs
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\obj\Debug\netcoreapp3.0\PigLatinLab.dll
+C:\Users\Tristan\Documents\BootCamp\PigLatinLab\PigLatinLab\obj\Debug\netcoreapp3.0\PigLatinLab.pdb
